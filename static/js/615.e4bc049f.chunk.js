@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmultiview_dataset_downloader=self.webpackChunkmultiview_dataset_downloader||[]).push([[615],{615:(e,t,a)=>{a.r(t),a.d(t,{default:()=>n});a(43);var d=a(579);const n=()=>(0,d.jsxs)("div",{children:[(0,d.jsx)("h2",{children:"Gene Network"}),(0,d.jsx)("p",{children:"Detailed information about gene network."})]})}}]);
+//# sourceMappingURL=615.e4bc049f.chunk.js.map
