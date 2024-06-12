@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmultiview_dataset_downloader=self.webpackChunkmultiview_dataset_downloader||[]).push([[644],{644:(e,d,s)=>{s.r(d),s.d(d,{default:()=>l});s(43);var a=s(579);const l=()=>(0,a.jsxs)("div",{children:[(0,a.jsx)("h2",{children:"Pseudobulk"}),(0,a.jsx)("p",{children:"Detailed information about Pseudobulk."})]})}}]);
-//# sourceMappingURL=644.b4df6e21.chunk.js.map
