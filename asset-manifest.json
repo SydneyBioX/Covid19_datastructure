@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Covid19_datastructure/static/css/main.d5289b2f.css",
-    "main.js": "/Covid19_datastructure/static/js/main.b572b85e.js",
-    "static/js/644.34189319.chunk.js": "/Covid19_datastructure/static/js/644.34189319.chunk.js",
-    "static/js/925.f6299f3c.chunk.js": "/Covid19_datastructure/static/js/925.f6299f3c.chunk.js",
-    "static/js/734.08b23871.chunk.js": "/Covid19_datastructure/static/js/734.08b23871.chunk.js",
+    "main.js": "/Covid19_datastructure/static/js/main.62fb18bd.js",
+    "static/js/644.1e9d8849.chunk.js": "/Covid19_datastructure/static/js/644.1e9d8849.chunk.js",
+    "static/js/925.023c8fe6.chunk.js": "/Covid19_datastructure/static/js/925.023c8fe6.chunk.js",
+    "static/js/734.f4d6158b.chunk.js": "/Covid19_datastructure/static/js/734.f4d6158b.chunk.js",
     "static/js/615.30c438da.chunk.js": "/Covid19_datastructure/static/js/615.30c438da.chunk.js",
     "static/js/896.fe9ae230.chunk.js": "/Covid19_datastructure/static/js/896.fe9ae230.chunk.js",
     "static/js/887.b3eb707f.chunk.js": "/Covid19_datastructure/static/js/887.b3eb707f.chunk.js",
     "static/js/693.fea74166.chunk.js": "/Covid19_datastructure/static/js/693.fea74166.chunk.js",
     "index.html": "/Covid19_datastructure/index.html",
     "main.d5289b2f.css.map": "/Covid19_datastructure/static/css/main.d5289b2f.css.map",
-    "main.b572b85e.js.map": "/Covid19_datastructure/static/js/main.b572b85e.js.map",
-    "644.34189319.chunk.js.map": "/Covid19_datastructure/static/js/644.34189319.chunk.js.map",
-    "925.f6299f3c.chunk.js.map": "/Covid19_datastructure/static/js/925.f6299f3c.chunk.js.map",
-    "734.08b23871.chunk.js.map": "/Covid19_datastructure/static/js/734.08b23871.chunk.js.map",
+    "main.62fb18bd.js.map": "/Covid19_datastructure/static/js/main.62fb18bd.js.map",
+    "644.1e9d8849.chunk.js.map": "/Covid19_datastructure/static/js/644.1e9d8849.chunk.js.map",
+    "925.023c8fe6.chunk.js.map": "/Covid19_datastructure/static/js/925.023c8fe6.chunk.js.map",
+    "734.f4d6158b.chunk.js.map": "/Covid19_datastructure/static/js/734.f4d6158b.chunk.js.map",
     "615.30c438da.chunk.js.map": "/Covid19_datastructure/static/js/615.30c438da.chunk.js.map",
     "896.fe9ae230.chunk.js.map": "/Covid19_datastructure/static/js/896.fe9ae230.chunk.js.map",
     "887.b3eb707f.chunk.js.map": "/Covid19_datastructure/static/js/887.b3eb707f.chunk.js.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.d5289b2f.css",
-    "static/js/main.b572b85e.js"
+    "static/js/main.62fb18bd.js"
   ]
 }
