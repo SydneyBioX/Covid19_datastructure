@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmultiview_dataset_downloader=self.webpackChunkmultiview_dataset_downloader||[]).push([[925],{925:(e,l,d)=>{d.r(l),d.d(l,{default:()=>s});d(43);var t=d(579);const s=()=>(0,t.jsxs)("div",{children:[(0,t.jsx)("h2",{children:"Celltype Pseudobulk"}),(0,t.jsx)("p",{children:"Detailed information about Celltype Pseudobulk."})]})}}]);
-//# sourceMappingURL=925.edf0059b.chunk.js.map

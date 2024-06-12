@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmultiview_dataset_downloader=self.webpackChunkmultiview_dataset_downloader||[]).push([[734],{734:(a,e,t)=>{t.r(e),t.d(e,{default:()=>i});t(43);var d=t(579);const i=()=>(0,d.jsxs)("div",{children:[(0,d.jsx)("h2",{children:"pathway"}),(0,d.jsx)("p",{children:"Detailed information about pathway."})]})}}]);
-//# sourceMappingURL=734.ea159009.chunk.js.map
